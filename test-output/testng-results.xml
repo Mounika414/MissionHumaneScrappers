@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[page is launched successfully]]>
+    </line>
+    <line>
+      <![CDATA[page is launched successfully]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-01-22T22:47:17 CST" name="Default suite" finished-at="2022-01-22T22:47:23 CST" duration-ms="5741">
+    <groups>
+    </groups>
+    <test started-at="2022-01-22T22:47:17 CST" name="Default test" finished-at="2022-01-22T22:47:23 CST" duration-ms="5741">
+      <class name="MissionHumane_Scrappers">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:MissionHumane_Scrappers@2d52216b]" started-at="2022-01-22T22:47:17 CST" name="beforeClass" finished-at="2022-01-22T22:47:23 CST" duration-ms="5632" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[page is launched successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="missionHumaneProject()[pri:0, instance:MissionHumane_Scrappers@2d52216b]" started-at="2022-01-22T22:47:23 CST" name="missionHumaneProject" finished-at="2022-01-22T22:47:23 CST" duration-ms="4" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[page is launched successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- missionHumaneProject -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:MissionHumane_Scrappers@2d52216b]" started-at="2022-01-22T22:47:23 CST" name="afterClass" finished-at="2022-01-22T22:47:23 CST" duration-ms="82" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- MissionHumane_Scrappers -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
